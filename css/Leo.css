@@ -151,6 +151,7 @@ body {
 }
 .header .links ul li a{
     text-decoration: none;
+    color: var(--color_01);
 }
 /* End Header */
 /* Start Landing Section */
